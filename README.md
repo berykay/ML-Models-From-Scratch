@@ -42,11 +42,11 @@ We have included small projects that demonstrate the usage of these machine lear
 
 2. **Iris Flower Classification with K-Means Clustering:** A project that uses K-Means Clustering to classify Iris flowers into different species.
 
-    - [Customer Segmentation Project](K_Means_Clustering/report.ipynb)
+    - [Iris Flower Classification Project](K_Means_Clustering/report.ipynb)
 
 3. **500 Person Gender-Height-Weight-Body Mass Index with Linear Regression:** A project that uses Linear Regression to predict Body Mass Index (BMI) based on features like gender, height, and weight for a dataset of 500 individuals.
 
-    - [House Price Prediction Project](Linear_Regression/report.ipynb)
+    - [500 Person Gender-Height-Weight-Body Mass Index Project](Linear_Regression/report.ipynb)
 
 ## Getting Started
 
