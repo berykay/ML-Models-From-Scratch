@@ -16,18 +16,21 @@ Welcome to the Machine Learning Models from Scratch repository! This repository 
 The Decision Tree model is a versatile machine learning algorithm used for both classification and regression tasks. In this implementation, we have created a Decision Tree classifier/regressor from scratch using Python.
 
 - [Decision Tree Implementation](Decision_Tree/dt.py)
+- ![Decision Tree Image](https://miro.medium.com/v2/resize:fit:1400/1*oUzKoJLSobKLwxGwXXxtYg.png)
 
 ## K-Means Clustering
 
 K-Means Clustering is an unsupervised machine learning algorithm used for data clustering and segmentation. In this implementation, we have created a K-Means Clustering algorithm from scratch using Python.
 
 - [K-Means Clustering Implementation](K_Means_Clustering/km.py)
+- ![K-Means Clustering Image](https://cdn.sanity.io/images/kuana2sp/production/af463efe521a434f882e84ab2e28b855c8fe884e-1988x876.png?fit=max)
 
 ## Linear Regression
 
 Linear Regression is a simple yet powerful algorithm for predicting a continuous target variable. In this implementation, we have created a Linear Regression model from scratch using Python.
 
 - [Linear Regression Implementation](Linear_Regression/lr.py)
+- ![Linear Regression Image](https://www.jeremyjordan.me/content/images/2017/06/Screen-Shot-2017-06-04-at-1.46.51-PM.png)
 
 ## Projects
 
