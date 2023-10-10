@@ -55,7 +55,7 @@ To get started with these machine learning models and projects, follow these ste
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/machine-learning-from-scratch.git
+   git clone https://github.com/berykay/ML-Models-From-Scratch
 
 2.Navigate to the relevant model or project directory.
 
